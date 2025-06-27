@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/migration-test-private/',
+  base: '/migration-test-public/',
   build: {
     rollupOptions: {
       output: {
